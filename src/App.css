@@ -3,7 +3,8 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  padding-top: 20px;
+  height: 15vmin;
 }
 
 .App-header {
@@ -15,6 +16,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.App-table {
+  font-size: calc(1px + 2vmin);
+  width: 95%;
 }
 
 .App-link {
